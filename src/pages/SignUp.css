@@ -1,0 +1,73 @@
+*{
+  padding:0;
+  margin: 0;
+}
+.container{
+  position: relative;
+  display: flex;
+  border: 1px solid rgb(240, 189, 189);
+  width:60%;
+  height: 80vh;
+  margin-top: 50px;
+  flex: wrap;
+  box-shadow: 0 0 8px rgba(128, 154, 240, 0.3);
+ border-radius: 10px;
+}
+.container .image{
+  
+  justify-content: center;
+  width:50%;
+  left: -3.2px;
+  position: absolute;
+  height: 80vh;
+  flex: wrap;
+
+}
+.signimg{
+  position:fixed;  
+  justify-content: center;
+  
+  height: 79vh;
+  width: 60vh;
+  left:270px;
+  top:8%;
+}
+.container .form-content{
+  position: absolute;
+  left: 50%;
+  
+  justify-content: center;
+  width:50%;
+  height: 80vh;
+  flex: wrap;
+
+}
+.form-content form {
+  position:absolute;
+  width: 59vh;
+  top: 10px;
+  height: 77vh;
+  padding: 30px;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 2px px 8px rgba(5, 5, 5, 0.3);
+}
+.form-title{
+  font-size:35px;
+font-weight: 600;
+font-style: bold;
+}
+.form-check-label{
+      font-size:11px;
+}
+.btn{
+      position: absolute;
+      left:32%;
+      top: 75%;
+}
+p{
+  position: absolute;
+      left:29%;
+      top: 85%;
+      font-size:12px;
+ }

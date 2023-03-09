@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+  }
+  // .container{
+    //   width: 100vh;
+    //   height: 100vh;
+    // }
+    $color1: black;
+    $color2: whitesmoke;
+    $color3: rgb(255, 230, 119);
+    $color4: #f5f5f7;
+    $color5: #777777;
+    $color6: #131921;
+    $color7: #bf4800;
+    $color8: #1c1c1b;
+    
+    
+    .gap-10{
+    gap: 10px;
+  }
+  .gap-15{
+    gap: 15px;
+  }
+  .gap-30{
+    gap: 30px;
+  }
+// *{
+//   margin:0;
+//   padding:0;
+//   box-sizing: border-box;
+// }
+// $color1: black;
+// $color2: whitesmoke;
+// $color3: rgb(255, 230, 119);
+// a{
+//   text-decoration:none;
+//   display: inline-block;
+// }
+// .gap-10{
+//   gap: 10px;
+// }
+// .gap-15{
+//   gap: 15px;
+// }
+// .gap-30{
+//   gap: 30px;
+// }
+// .header-top-strip{
+//   background-color: $color2;
+//   border-bottom: 1px solid black;
+// }
+// .form-control:focus{
+//     box-shadow: none;
+//     border-color:inherit;
+// }
+// .header-upper{
+//   background-color: $color2;
+//   .input-group-text{
+//     background-color: $color3;
+//     height: 38px;
+//   }  
+//   .header-upper-links img{
+//     width:35px;
+//     height: 35px;
+//   }
+// }
+// .header-bottom .menu-links ,
+// .dropdown button{
+//   color:$color1;
+//   font-size: 14px;
+//   line-height: 18px;
+//   font-weight: 400;
+//   letter-spacing: 0.3;
+//   text-transform: uppercase;  
+  
+ 
+//   .dropdown-menu{
+//     background-color: $color2;
+//     width: 100%;
+//   }
+//   }
+
+
+
+// $clr-black: #000;
+// $clr-white: whitesmoke;
+
+
+
+// html{
+//   font-size:12px;
+// }
+// body{
+//   font-size: 1.6rem;
+//   line-height: 1.6;
+//   // font-family: $font-family-poppins;
+//   color: $clr-black;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// .App {
+//   text-align: center;
+// }
+
+// .App-logo {
+//   height: 40vmin;
+//   pointer-events: none;
+// }
+
+// @media (prefers-reduced-motion: no-preference) {
+//   .App-logo {
+//     animation: App-logo-spin infinite 20s linear;
+//   }
+// }
+
+// .App-header {
+//   background-color: #282c34;
+//   min-height: 100vh;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   font-size: calc(10px + 2vmin);
+//   color: white;
+// }
+
+// .App-link {
+//   color: #61dafb;
+// }
+
+// @keyframes App-logo-spin {
+//   from {
+//     transform: rotate(0deg);
+//   }
+//   to {
+//     transform: rotate(360deg);
+//   }
+// }
